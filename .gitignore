@@ -1,0 +1,7 @@
+# Environment & Config
+.env
+
+# Folder cache
+cache/
+*.log
+
